@@ -11,7 +11,9 @@ Features
 * password-protected (optionally but recommended)
 * syntax highlighting for source files (php, py, rb, html, js, vb)
 * download current file/folder (folder as zip, not recursive)
-* and more comming soon...
+* move files and folders
+* file upload (ajax uploader with drag-and-drop support)
+* contextual (right-click) menu with download, cut and delete actions
 
 Screenshots
 ===
