@@ -17,7 +17,11 @@ Features
 
 Screenshots
 ===
-[Screenshot 1](http://postimage.org/image/j5hvd1yub/) [Screenshot 2](http://postimage.org/image/5qheoks11/) [Screenshot 3](http://postimage.org/image/5qcoboydh/) [Screenshot 4](http://postimage.org/image/qf3fvrder/) [Screenshot 5](http://postimage.org/image/aimhn4t1h/)
+<a href="https://raw.github.com/adrian7/phpfilebrowser/master/screenshots/phpfilebrowser-screen-1.png" target="_blank"><img src="https://raw.github.com/adrian7/phpfilebrowser/master/screenshots/phpfilebrowser-screen-1.png" width="50" /></a>
+<a href="https://raw.github.com/adrian7/phpfilebrowser/master/screenshots/phpfilebrowser-screen-2.png" target="_blank"><img src="https://raw.github.com/adrian7/phpfilebrowser/master/screenshots/phpfilebrowser-screen-2.png" width="50" /></a>
+<a href="https://raw.github.com/adrian7/phpfilebrowser/master/screenshots/phpfilebrowser-screen-3.png" target="_blank"><img src="https://raw.github.com/adrian7/phpfilebrowser/master/screenshots/phpfilebrowser-screen-3.png" width="50" /></a>
+<a href="https://raw.github.com/adrian7/phpfilebrowser/master/screenshots/phpfilebrowser-screen-4.png" target="_blank"><img src="https://raw.github.com/adrian7/phpfilebrowser/master/screenshots/phpfilebrowser-screen-4.png" width="50" /></a>
+<a href="https://raw.github.com/adrian7/phpfilebrowser/master/screenshots/phpfilebrowser-screen-5.png" target="_blank"><img src="https://raw.github.com/adrian7/phpfilebrowser/master/screenshots/phpfilebrowser-screen-5.png" width="50" /></a>
 
 
 
